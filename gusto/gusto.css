@@ -1,0 +1,41 @@
+
+/*tüm sayfa*/
+body {
+    font-family:cursive;
+    margin: 100  100;
+    background-image:url("https://cdn.pixabay.com/photo/2019/06/29/16/13/lemon-4306496_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+/*baslık kısmı*/
+
+h1 { color: rgb(9, 82, 9);
+    font-size: 40px; 
+    text-align: center;
+}
+
+.nav1 {
+    background-color: rgba(99, 180, 62, 0.459);
+}
+/*tarif kısmı*/
+article {
+    color:black;
+    
+} 
+/*resmin olduğu kısım*/
+.resim{
+    margin: 20;
+    border: 10px rgb(255, 255, 255);
+    border-radius:  10px;
+    border-style:solid;
+}
+
+/*footer start*/
+footer {
+    background-color:  rgba(99, 180, 62, 0.459);
+   
+}
+/*footer end*/
+
